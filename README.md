@@ -30,8 +30,12 @@ Identify distinct groups of members from how committed they are, how they rate t
 | **2. Experience-oriented members** | 73 | 5.6 h | Moderate engagement, positive view of services, facilities and value | Maintain standards of excellence, expand training opportunities, referral incentives |
 | **3. At-risk members, low engagement** | 118 | 4.1 h | Low engagement, poor view of services, facilities and value | Re-engagement campaigns, promotional offers, satisfaction surveys |
 
-![t-SNE cluster plot](images/tsne-clusters.png)
-![Cluster means](images/cluster-means.png)
+![t-SNE cluster plot] 
+<img width="577" height="436" alt="image" src="https://github.com/user-attachments/assets/1a492c9d-ea67-4afc-8ed7-fe18db5af955" />
+
+![Cluster means]
+<img width="1302" height="535" alt="image" src="https://github.com/user-attachments/assets/d3f5768d-deb7-46e3-b53e-5f38cd33f4e7" />
+
 
 ## Takeaways
 - Members split mainly by **how much they use the club**, and heavy users are the largest group (52%).
